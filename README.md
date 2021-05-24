@@ -16,14 +16,14 @@
 
 ---
 
-<h3 align="center"> Technologies I use most 🛠 </h3>
+<h3 align="center">🛠 Technologies I use most </h3>
 
 <p align="center">
 JavaScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML5 &nbsp; CSS3 &nbsp;&nbsp;/&nbsp;&nbsp; Node &nbsp; Express &nbsp;&nbsp;/&nbsp;&nbsp; MySQL  </p>
 <p align="center">VS Code &nbsp; Postman &nbsp; MySQLWorkbench &nbsp; Netlify  &nbsp; Heroku</p>
 
 
-<h3 align="center"> Get in touch 📮 </h3>
+<h3 align="center">📮 Get in touch </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jasonflorentino/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/jasonflorentino"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
