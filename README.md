@@ -6,7 +6,7 @@
 💼 I'm currently working as a teaching assistant for BrainStation's full-stack bootcamp.  
 🔭 I like to follow my nose, continually building things that might help others, and picking up new skills to along the way.  
 🌱 I’m currently learning anything and everything:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Furthering my backend skills with Node. Python is up next.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Furthering my backend skills with Node. Python backend is up next.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Data Structures & Algorithms with Tim Roughgarden's Stanford Algorithms lectures and various books  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • How computers work with Bryant and O'Hallaron's *Computer Systems: A Programmer's Perspective*  
 👀 Looking forward to trying out: ~~Vue~~, TypeScript, Go, Electron  
