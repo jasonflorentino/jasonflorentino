@@ -1,9 +1,8 @@
-## Hi there 👋 I'm [Jason](https://www.linkedin.com/in/jasonflorentino/), a full-stack developer.
+### Hi there 👋 I'm [Jason](https://www.linkedin.com/in/jasonflorentino/), a full-stack developer.
 
 🚀 ✍️ 🪖 ⚡️  
 **I'm also a career-changer, self-taught programmer, bootcamp grad, and on a mission to teach myself computer science.**
 
-## About me 👨‍💻
 💼 I'm currently working as a teaching assistant for BrainStation's full-stack bootcamp.  
 🔭 I like to follow my nose, continually building things that might help others, and picking up new skills to along the way.  
 🌱 I’m currently learning anything and everything:  
@@ -15,15 +14,23 @@
 🎸 When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
 🙋‍♂️ he/him
 
-## Technologies I use most 🛠
-JavaScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML5 &nbsp; CSS3 &nbsp;&nbsp;/&nbsp;&nbsp; Node &nbsp; Express &nbsp;&nbsp;/&nbsp;&nbsp; MySQL
+---
 
-VS Code &nbsp; Postman &nbsp; MySQLWorkbench &nbsp; Netlify  &nbsp; Heroku
+<h3 align="center"> Technologies I use most 🛠 </h3>
 
-## Get in touch 📮
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jasonflorentino/) [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/jasonflorentino)
+<p align="center">
+JavaScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML5 &nbsp; CSS3 &nbsp;&nbsp;/&nbsp;&nbsp; Node &nbsp; Express &nbsp;&nbsp;/&nbsp;&nbsp; MySQL  </p>
+<p align="center">VS Code &nbsp; Postman &nbsp; MySQLWorkbench &nbsp; Netlify  &nbsp; Heroku</p>
+
+
+<h3 align="center"> Get in touch 📮 </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jasonflorentino/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/jasonflorentino"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+</p>
 
 <!--
+
+  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jasonflorentino/) [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/jasonflorentino)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonflorentino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
