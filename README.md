@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • How computers work with Bryant and O'Hallaron's *Computer Systems: A Programmer's Perspective*  
 👀 &nbsp;Looking forward to trying out: ~~Vue~~, TypeScript, Go, Electron  
 🖼 &nbsp;Fun fact: I used to be an ad agency art director for brands like KFC and LG.  
-🪐 &nbsp;When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
+🎸 &nbsp;When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
 🙋‍♂️ &nbsp;he/him
 
 ---
@@ -27,6 +27,8 @@ JavaScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML
 <p align="center">
   <a href="https://www.linkedin.com/in/jasonflorentino/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/jasonflorentino"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
+
+<h3 align="center">⬇️  Check out some things I've made </h3>
 
 <!--
 
