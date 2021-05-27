@@ -3,16 +3,16 @@
 🚀 ✍️ 🪖 ⚡️  
 **I'm also a career-changer, self-taught programmer, bootcamp grad, and on a mission to teach myself computer science.**
 
-💼 I'm currently working as a teaching assistant for BrainStation's full-stack bootcamp.  
-🔭 I like to follow my nose, continually building things that might help others, and picking up new skills to along the way.  
-🌱 I’m currently learning anything and everything:  
+💼 &nbsp;I'm currently working as a teaching assistant for BrainStation's full-stack bootcamp.  
+🔭 &nbsp;I like to follow my nose, continually building things that might help others, and picking up new skills to along the way.  
+🌱 &nbsp;I’m currently learning anything and everything:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Furthering my backend skills with Node. Python backend is up next.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Data Structures & Algorithms with Tim Roughgarden's Stanford Algorithms lectures and various books  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • How computers work with Bryant and O'Hallaron's *Computer Systems: A Programmer's Perspective*  
-👀 Looking forward to trying out: ~~Vue~~, TypeScript, Go, Electron  
-💫 Fun fact: I used to be an ad agency art director for brands like KFC and LG.  
-🎸 When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
-🙋‍♂️ he/him
+👀 &nbsp;Looking forward to trying out: ~~Vue~~, TypeScript, Go, Electron  
+🖼 &nbsp;Fun fact: I used to be an ad agency art director for brands like KFC and LG.  
+🪐 &nbsp;When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
+🙋‍♂️ &nbsp;he/him
 
 ---
 
