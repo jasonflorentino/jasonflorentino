@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Furthering my backend skills with Node. Python backend is up next.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Data Structures & Algorithms with Tim Roughgarden's Stanford Algorithms lectures and various books  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • How computers work with Bryant and O'Hallaron's *Computer Systems: A Programmer's Perspective*  
-👀 &nbsp;Looking forward to trying out: ~~Vue~~, TypeScript, Go, Electron  
+👀 &nbsp;Looking forward to trying out: ~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron  
 🖼 &nbsp;Fun fact: I used to be an ad agency art director for brands like KFC and LG.  
 🎸 &nbsp;When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
 🙋‍♂️ &nbsp;he/him
