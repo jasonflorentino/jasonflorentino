@@ -3,24 +3,29 @@
 🚀 ✍️ 🪖 ⚡️  
 **I'm also a career-changer, self-taught programmer, bootcamp grad, and on a mission to teach myself computer science.**
 
-💼 &nbsp;I'm currently working as a teaching assistant for BrainStation's full-stack bootcamp.  
-🔭 &nbsp;I like to follow my nose, continually building things that might help others, and picking up new skills to along the way.  
+<!-- 💼 &nbsp;I've just finished working as a teaching assistant for [BrainStation's](https://brainstation.io/) full-stack bootcamp.   -->
+🔭 &nbsp;I like to follow my nose – continually building things that might help others, and push my skills in new directions.  
 🌱 &nbsp;I’m currently learning anything and everything:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Furthering my backend skills with Node. Python backend is up next.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Data Structures & Algorithms with Tim Roughgarden's Stanford Algorithms lectures and various books  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Building bigger and better React applications  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • [Data Structures & Algorithms](https://github.com/jasonflorentino/algorithms-dataStructures) with Tim Roughgarden's Stanford Algorithms lectures and various books  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • How computers work with Bryant and O'Hallaron's *Computer Systems: A Programmer's Perspective*  
-👀 &nbsp;Looking forward to trying out: ~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron  
+👀 &nbsp;Looking forward to trying out: ~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron, WebSockets, GraphQL, Three.js, Next.js  
 🖼 &nbsp;Fun fact: I used to be an ad agency art director for brands like KFC and LG.  
 🎸 &nbsp;When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
 🙋‍♂️ &nbsp;he/him
 
 ---
 
-<h3 align="center">🛠 Technologies I use most </h3>
+<h3 align="center">🛠 Tech I use most </h3>
 
 <p align="center">
 JavaScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML5 &nbsp; CSS3 &nbsp;&nbsp;/&nbsp;&nbsp; Node &nbsp; Express &nbsp;&nbsp;/&nbsp;&nbsp; MySQL  </p>
 <p align="center">VS Code &nbsp; Postman &nbsp; MySQLWorkbench &nbsp; Netlify  &nbsp; Heroku</p>
+
+<h3 align="center">🏗 Tech I'm trying to use more </h3>
+
+<p align="center">
+TypeScript &nbsp; MongoDB </p>
 
 
 <h3 align="center">📮 Get in touch </h3>
