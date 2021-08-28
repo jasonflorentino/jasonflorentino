@@ -9,8 +9,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Building bigger and better React applications  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • [Data Structures & Algorithms](https://github.com/jasonflorentino/algorithms-dataStructures) with Tim Roughgarden's Stanford Algorithms lectures and various books  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • How computers work with Bryant and O'Hallaron's *Computer Systems: A Programmer's Perspective*  
-👀 &nbsp;Looking forward to trying out: ~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron, ~~WebSockets~~, GraphQL, Three.js, Next.js  
-🖼 &nbsp;Fun fact: I used to be an ad agency art director for brands like KFC and LG.  
+👀 &nbsp;Looking forward to trying out: ~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron, ~~WebSockets~~, GraphQL, Three.js, Next.js, Tailwind  
+🖼 &nbsp;Fun fact: I used to be an ad agency art director, and have worked on national campaigns brands like KFC and LG.  
 🎸 &nbsp;When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
 🙋‍♂️ &nbsp;he/him
 
