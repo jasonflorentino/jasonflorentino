@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "editor.cursorStyle": "block",
+  "editor.minimap.enabled": false,
+  "workbench.startupEditor": "none",
+  "workbench.tree.indent": 20,
+  "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#aa0000"
+  }
+}
