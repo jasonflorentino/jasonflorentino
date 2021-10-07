@@ -5,6 +5,9 @@
   "workbench.startupEditor": "none",
   "workbench.tree.indent": 20,
   "workbench.colorCustomizations": {
+    "editorIndentGuide.activeBackground": "#aaaaaa",
     "tree.indentGuidesStroke": "#aa0000"
   }
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.editor.enablePreview": false,
 }
