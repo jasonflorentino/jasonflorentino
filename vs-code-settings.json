@@ -7,7 +7,7 @@
   "workbench.colorCustomizations": {
     "editorIndentGuide.activeBackground": "#aaaaaa",
     "tree.indentGuidesStroke": "#aa0000"
-  }
+  },
   "editor.bracketPairColorization.enabled": true,
-  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreview": false
 }
