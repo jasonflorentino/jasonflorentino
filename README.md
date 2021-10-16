@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Jason](https://www.linkedin.com/in/jasonflorentino/), a full-stack developer.
+### Hi there 👋 I'm [Jason](https://www.jasonflorentino.dev/), a full-stack developer.
 
 🚀 ✍️ 🪖 ⚡️  
 **I'm also a career-changer, self-taught programmer, bootcamp grad, and a computer science enthusiast.**
