@@ -3,25 +3,24 @@
 🚀 ✍️ 🪖 ⚡️  
 **I'm also a career-changer, self-taught programmer, bootcamp grad, and a computer science enthusiast.**
 
-💼 &nbsp;I'm currently working as a Software Engineer at Drop. Previously, I was a teaching assistant for [BrainStation's](https://brainstation.io/) full-stack bootcamp.  
+💼 &nbsp;I'm currently working as a Software Engineer at Drop.  
+Previously, I was a teaching assistant for [BrainStation's](https://brainstation.io/) full-stack bootcamp.  
 🔭 &nbsp;I like to follow my nose – endlessly curious about various aspects of systems, software, programming, the web, and CS.  
-👀 &nbsp;Tech I'd like to try out: ~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron, ~~WebSockets~~, ~~GraphQL~~, Three.js, Next.js, Tailwind  
 🖼 &nbsp;Fun fact: I used to be an ad agency art director, and have worked on national campaigns for brands like KFC and LG.  
 🎸 &nbsp;When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
 🙋‍♂️ &nbsp;he/him
 
 ---
 
-<h3 align="center">🛠 Some of my fav tech </h3>
+**🛠 Some of my fav tech**  
+JavaScript &nbsp; TypeScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML5 &nbsp; CSS3 &nbsp;&nbsp;/&nbsp;&nbsp; Node &nbsp; Express &nbsp;&nbsp;/&nbsp;&nbsp; MySQL   
+VS Code &nbsp; Netlify  &nbsp; Heroku
 
-<p align="center">
-JavaScript &nbsp; TypeScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML5 &nbsp; CSS3 &nbsp;&nbsp;/&nbsp;&nbsp; Node &nbsp; Express &nbsp;&nbsp;/&nbsp;&nbsp; MySQL  </p>
-<p align="center">VS Code &nbsp; Netlify  &nbsp; Heroku</p>
-
-<h3 align="center">📮 Get in touch </h3>
-<p align="center">
+**👀 &nbsp;Tech I'd like to try out**  
+~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron, ~~WebSockets~~, ~~GraphQL~~, Three.js, Next.js, Tailwind  
+  
+**📮 Get in touch**  
   <a href="https://www.linkedin.com/in/jasonflorentino/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/jasonflorentino"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-</p>
 
 <h3 align="center">⬇️  Check out some things I've made </h3>
 
