@@ -1,32 +1,22 @@
 ### Hi there 👋 I'm [Jason](https://www.linkedin.com/in/jasonflorentino/), a full-stack developer.
 
 🚀 ✍️ 🪖 ⚡️  
-**I'm also a career-changer, self-taught programmer, bootcamp grad, and on a mission to teach myself computer science.**
+**I'm also a career-changer, self-taught programmer, bootcamp grad, and a computer science enthusiast.**
 
-<!-- 💼 &nbsp;I've just finished working as a teaching assistant for [BrainStation's](https://brainstation.io/) full-stack bootcamp.   -->
-🔭 &nbsp;I like to follow my nose – continually building things that might help others, and push my skills in new directions.  
-🌱 &nbsp;I’m currently learning anything and everything:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Building bigger and better React applications  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • [Data Structures & Algorithms](https://github.com/jasonflorentino/algorithms-dataStructures) with Tim Roughgarden's Stanford Algorithms lectures and various books  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • How computers work with Bryant and O'Hallaron's *Computer Systems: A Programmer's Perspective*  
-👀 &nbsp;Looking forward to trying out: ~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron, ~~WebSockets~~, GraphQL, Three.js, Next.js, Tailwind  
-🖼 &nbsp;Fun fact: I used to be an ad agency art director, and have worked on national campaigns brands like KFC and LG.  
+💼 &nbsp;I'm currently working as a Software Engineer at Drop. Previously, I was a teaching assistant for [BrainStation's](https://brainstation.io/) full-stack bootcamp.  
+🔭 &nbsp;I like to follow my nose – endlessly curious about various aspects of systems, software, programming, the web, and CS.  
+👀 &nbsp;Tech I'd like to try out: ~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron, ~~WebSockets~~, ~~GraphQL~~, Three.js, Next.js, Tailwind  
+🖼 &nbsp;Fun fact: I used to be an ad agency art director, and have worked on national campaigns for brands like KFC and LG.  
 🎸 &nbsp;When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
 🙋‍♂️ &nbsp;he/him
 
 ---
 
-<h3 align="center">🛠 Tech I use most </h3>
+<h3 align="center">🛠 Some of my fav tech </h3>
 
 <p align="center">
-JavaScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML5 &nbsp; CSS3 &nbsp;&nbsp;/&nbsp;&nbsp; Node &nbsp; Express &nbsp;&nbsp;/&nbsp;&nbsp; MySQL  </p>
-<p align="center">VS Code &nbsp; Postman &nbsp; MySQLWorkbench &nbsp; Netlify  &nbsp; Heroku</p>
-
-<h3 align="center">🏗 Tech I'm trying to use more </h3>
-
-<p align="center">
-TypeScript &nbsp; MongoDB </p>
-
+JavaScript &nbsp; TypeScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML5 &nbsp; CSS3 &nbsp;&nbsp;/&nbsp;&nbsp; Node &nbsp; Express &nbsp;&nbsp;/&nbsp;&nbsp; MySQL  </p>
+<p align="center">VS Code &nbsp; Netlify  &nbsp; Heroku</p>
 
 <h3 align="center">📮 Get in touch </h3>
 <p align="center">
