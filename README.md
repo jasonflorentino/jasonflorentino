@@ -22,7 +22,7 @@ VS Code &nbsp; Netlify  &nbsp; Heroku
 **📮 Get in touch**  
   <a href="https://www.linkedin.com/in/jasonflorentino/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/jasonflorentino"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
-<h3 align="right">Check out some things I've made &nbsp;⬇️</h3>
+<h3 align="right">Check out some things I've made &nbsp;👇</h3>
 
 <!--
 
