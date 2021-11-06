@@ -12,10 +12,6 @@
 
 ---
 
-**🛠 Some of my fav tech**  
-JavaScript &nbsp; TypeScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML5 &nbsp; CSS3 &nbsp;&nbsp;/&nbsp;&nbsp; Node &nbsp; Express &nbsp;&nbsp;/&nbsp;&nbsp; MySQL   
-VS Code &nbsp; Netlify  &nbsp; Heroku
-
 **👀 &nbsp;Tech I'd like to try out**  
 ~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron, ~~WebSockets~~, ~~GraphQL~~, Three.js, Next.js, Tailwind  
   
@@ -25,6 +21,12 @@ VS Code &nbsp; Netlify  &nbsp; Heroku
 <h3 align="right">Check out some things I've made &nbsp;👇</h3>
 
 <!--
+
+HERE BE OLD/MISC/UNUSED STUFF
+
+**🛠 Some of my fav tech**  
+JavaScript &nbsp; TypeScript &nbsp; Python &nbsp;&nbsp;/&nbsp;&nbsp; React &nbsp; Sass &nbsp; HTML5 &nbsp; CSS3 &nbsp;&nbsp;/&nbsp;&nbsp; Node &nbsp; Express &nbsp;&nbsp;/&nbsp;&nbsp; MySQL   
+VS Code &nbsp; Netlify  &nbsp; Heroku
 
   [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jasonflorentino/) [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/jasonflorentino)
 
@@ -36,9 +38,7 @@ VS Code &nbsp; Netlify  &nbsp; Heroku
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>  
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
--->
 
-<!--
 **jasonflorentino/jasonflorentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -51,4 +51,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
