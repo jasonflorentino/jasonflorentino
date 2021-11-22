@@ -1,13 +1,39 @@
 {
-  "editor.tabSize": 2,
-  "editor.cursorStyle": "block",
-  "editor.minimap.enabled": false,
-  "workbench.startupEditor": "none",
-  "workbench.tree.indent": 20,
-  "workbench.colorCustomizations": {
-    "editorIndentGuide.activeBackground": "#aaaaaa",
-    "tree.indentGuidesStroke": "#aa0000"
-  },
-  "editor.bracketPairColorization.enabled": true,
-  "workbench.editor.enablePreview": false
+    "security.workspace.trust.untrustedFiles": "open",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[python]": {
+        "editor.tabSize": 4
+    },
+
+    "editor.tabSize": 2,
+    "editor.cursorStyle": "block",
+    "editor.minimap.enabled": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.fontFamily": "'SF Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": 400,
+    "editor.fontSize": 12,
+    "editor.lineHeight": 20,
+    "editor.letterSpacing": 0.15,
+
+    "material-icon-theme.folders.theme": "classic",
+    "material-icon-theme.activeIconPack": "react",
+
+    "terminal.integrated.lineHeight": 1.25,
+
+    "workbench.startupEditor": "none",
+    "workbench.editor.enablePreview": false,
+    "workbench.tree.indent": 20,
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground": "#aaaaaa",
+        "tree.indentGuidesStroke": "#aa0000",
+        "terminal.foreground": "#ccc9c5"
+    }
 }
