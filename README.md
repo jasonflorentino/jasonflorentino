@@ -1,19 +1,19 @@
-### Hi there 👋 I'm [Jason](https://www.jasonflorentino.dev/)
+### Hi there 👋 I'm [Jason](https://www.jasonflorentino.dev/).
 
 🚀 ✍️ 🪖 ⚡️  
-**I'm a career-changer, self-taught programmer, bootcamp grad, and a computer science enthusiast.**
+**I'm a career-changer, a self-taught programmer, bootcamp grad, and a computer science enthusiast.**
 
 💼 &nbsp;I'm currently working as a Software Engineer at Drop.  
-🍎 &nbsp;Previously, I was a teaching assistant for [BrainStation's](https://brainstation.io/) full-stack bootcamp.  
+🍎 &nbsp;Previously, I was a teaching assistant for [BrainStation's](https://brainstation.io/) full-stack developer bootcamp.  
 🔭 &nbsp;I like to follow my nose – endlessly curious about various aspects of systems, software, programming, the web, and CS.  
-🖼 &nbsp;Fun fact: I used to be an ad agency art director, and have worked on national campaigns for brands like KFC and LG.  
+🎨 &nbsp;Fun fact: I used to be an ad agency art director, and have worked on national campaigns for brands like KFC and LG.  
 🎸 &nbsp;When I'm not coding: I love listening to & playing music, making photographs, watching RPDR & TNG.  
 🙋‍♂️ &nbsp;he/him
 
 ---
 
 **👀 &nbsp;Tech I'd like to try out**  
-~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron, ~~WebSockets~~, ~~GraphQL~~, Three.js, Next.js, Tailwind  
+~~Vue~~, ~~TypeScript~~, ~~ChakraUI~~, Go, Electron, ~~WebSockets~~, ~~GraphQL~~, Three.js, Next.js, ~~Tailwind~~, ~~Recoil~~  
   
 **📮 Get in touch**  
   <a href="https://www.linkedin.com/in/jasonflorentino/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/jasonflorentino"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
