@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [Jason](https://www.jasonflorentino.dev/).
 
 ✍️ 🪖 🚀 ⚡️  
-**I'm a self-taught programmer, bootcamp grad, career-changer, and computer science enthusiast.**
+**I'm a self-taught programmer, career-changer, bootcamp-graduater, and computer science enjoyer.**
 
 💼 &nbsp;I'm currently working as a Software Engineer at Drop.  
 🍎 &nbsp;Previously, I was a teaching assistant for [BrainStation's](https://brainstation.io/) full-stack developer bootcamp.  
