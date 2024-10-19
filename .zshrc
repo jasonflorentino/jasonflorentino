@@ -24,6 +24,7 @@ alias ll="ls -lahFBG"
 alias lll="ls -lahFBG | less"
 alias llg="ls -lahFBG | grep $1"
 alias cwd="pwd | pbcopy"
+alias code="open -a 'Visual Studio Code' $1"
 alias apps="cd /Applications; ls"
 alias slack="open /Applications/Slack.app --hide -g" 
 alias spotify="open /Applications/Spotify.app --hide -g"
@@ -71,16 +72,33 @@ finder() {
 
 # Git
 
+HASH="%C(always,yellow)%h%C(always,reset)"
+RELATIVE_TIME="%C(always,green)%ar%C(always,reset)"
+AUTHOR="%C(always,bold blue)%an%C(always,reset)"
+REFS="%C(always,red)%d%C(always,reset)"
+SUBJECT="%s"
+
+FORMAT="$HASH $RELATIVE_TIME{$AUTHOR{$REFS $SUBJECT"
+
+# From https://registerspill.thorstenball.com/p/how-i-use-git 
+pretty_git_log() {
+  git log --graph --pretty="tformat:$FORMAT" $* |
+  column -t -s '{' |
+  less -XRS --quit-if-one-screen
+}
+
+alias ga="git add"
 alias gb="git branch"
 alias gbv="git branch -vv"
-alias gc="git commit"
+alias gck="git checkout"
+alias gcm="git commit"
 alias gd="git diff"
-alias gk="git checkout"
-alias gl="git pull"
+alias gl="git log"
+alias glp=pretty_git_log
 alias gm="git merge"
-alias gp="git push"
+alias gpl="git pull"
+alias gpu="git push"
 alias gs="git status"
-alias ga="git add"
 alias sub='git submodule update --recursive --init'
 alias diffnames="setbname; git diff master..$bname --name-status"
 
