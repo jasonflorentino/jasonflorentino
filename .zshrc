@@ -98,6 +98,7 @@ alias glp=pretty_git_log
 alias gm="git merge"
 alias gpl="git pull"
 alias gpu="git push"
+alias grs="git restore --staged"
 alias gs="git status"
 alias sub='git submodule update --recursive --init'
 alias diffnames="setbname; git diff master..$bname --name-status"
