@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+SIZE=2100
+
+mkdir -p export
+
+mdfind "kMDItemUserTags == 'Red'" -onlyin . | while IFS= read -r file; do
+  filename=$(basename "$file")
+  name="${filename%.*}"
+  ext="${filename##*.}"
+
+  outfile="export/${name}-${SIZE}.${ext}"
+  sips -Z "$SIZE" "$file" --out "$outfile"
+done
+
